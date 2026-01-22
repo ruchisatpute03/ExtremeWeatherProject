@@ -5,7 +5,7 @@ This project analyzes historical extreme weather events (tropical cyclones) usin
 It leverages **pandas**, **numpy**, **scipy**, and **matplotlib** to process the dataset and visualize trends, patterns, and anomalies in extreme weather data.
 
 ## Dataset
-- File: `data/ibtracs.ALL.list.v04r01.csv`
+- File: `ibtracs.ALL.list.v04r01.csv`
 - Source: IBTrACS global tropical cyclone dataset
 - Description: Contains historical cyclone information, including date, location, intensity, and other metrics.
 
