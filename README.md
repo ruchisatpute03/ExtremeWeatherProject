@@ -55,7 +55,7 @@ This project analyzes historical extreme weather events (tropical cyclones) usin
 ## 📊 Power BI Dashboard
 - File: 'powerbi/StormDashboard.pbix.'
 - Download and open in Power BI Desktop to explore the interactive dashboard  
-- Preview available in the images section above  
+- Preview available in the powerbi section above  
 
 ---
 
