@@ -42,7 +42,7 @@ This project analyzes historical extreme weather events (tropical cyclones) usin
 ## 📸 Visualizations
 
 ### 📈 Trend of Extreme Weather Events
-![Trend](images/trend.png)
+![Trend](images/extreme_weather_trend.png)
 
 ### 📊 Power BI Dashboard Preview
 ![Dashboard](images/dashboard.png)
