@@ -48,7 +48,7 @@ This project analyzes historical extreme weather events (tropical cyclones) usin
 ![Dashboard](images/StormDashboard of Line Chart & Map with Details.png)
 
 ### 🌪️ Cyclone Path Visualization
-![Cyclone](images/cyclone.gif)
+![Cyclone](images/extreme_cyclones.gif)
 
 ---
 
